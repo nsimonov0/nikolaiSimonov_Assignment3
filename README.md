@@ -1,0 +1,2 @@
+# nikolaiSimonov_Assignment3
+I have created a normalized database schema (at least 5 tables), a data generation tool and finally an application to import the data. The database consists of 5 tables in 3NF. I used Java Faker for my data generation tool and exported the generated data to a csv file. Lastly, the program imports the unstructured data from the csv text file into the normalized database.
