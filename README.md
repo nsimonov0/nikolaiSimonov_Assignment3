@@ -11,19 +11,35 @@ TO VIEW ALL EXISTING TABLES IN DATABASE: GOTO StudentGenerator.java --> Uncommen
 
 PLEASE ENSURE ALL PROPER DEPENDENCIES HAVE BEEN INSTALLED:
 <dependencies>
+    
     <dependency>
+    
         <groupId>com.github.javafaker</groupId>
+        
         <artifactId>javafaker</artifactId>
+        
         <version>0.17.2</version>
+        
     </dependency>
+    
     <dependency>
+    
         <groupId>mysql</groupId>
+        
         <artifactId>mysql-connector-java</artifactId>
+        
         <version>5.1.22</version>
+        
     </dependency>
+    
     <dependency>
+    
         <groupId>org.apache.commons</groupId>
+        
         <artifactId>commons-csv</artifactId>
+        
         <version>1.6</version>
+        
     </dependency>
+    
 </dependencies>
