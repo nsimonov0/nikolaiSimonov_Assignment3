@@ -5,11 +5,16 @@ INSTRUCTIONS:
 The project should already have fake data generated and the tables should already be created. Additionally, the unstructured data has already been parsed into the 5 tables. 
 
 TO GENERATE FAKE DATA TO A CSV: GOTO StudentGenerator.java --> Uncomment lines 18 & 19 --> Run program
+
 TO CREATE THE 5 TABLES: GOTO StudentGenerator.java --> Uncomment lines 34 & 35 --> Run program
+
 TO PARSE DATA INTO TABLES: GOTO StudentGenerator.java --> Uncomment lines 38 & 39 --> Run program
+
 TO VIEW ALL EXISTING TABLES IN DATABASE: GOTO StudentGenerator.java --> Uncomment lines 27 - 31 --> Run program
 
+
 PLEASE ENSURE ALL PROPER DEPENDENCIES HAVE BEEN INSTALLED:
+
 <dependencies>
     
     <dependency>
